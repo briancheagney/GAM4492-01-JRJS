@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jzettlem/Documents/GitHub/GAM4492-01-JRJ/GAME/Game/Content/SimpleMultiplayerLobby/Maps/Map1.umap",
+				"C:/Users/jzettlem/Documents/GitHub/GAM4492-01-JRJ/GAME/Game/Content/SimpleMultiplayerLobby/Maps/Map3.umap",
+				"C:/Users/jzettlem/Documents/GitHub/GAM4492-01-JRJ/GAME/Game/Content/Megascans/Surfaces/Mossy_Ground_xeunbh1/MI_Mossy_Ground_xeunbh1_2K.uasset",
+				"C:/Users/jzettlem/Documents/GitHub/GAM4492-01-JRJ/GAME/Game/Content/Megascans/Surfaces/Mossy_Ground_xeunbh1/T_Mossy_Ground_xeunbh1_2K_D.uasset",
+				"C:/Users/jzettlem/Documents/GitHub/GAM4492-01-JRJ/GAME/Game/Content/Megascans/Surfaces/Mossy_Ground_xeunbh1/T_Mossy_Ground_xeunbh1_2K_N.uasset",
+				"C:/Users/jzettlem/Documents/GitHub/GAM4492-01-JRJ/GAME/Game/Content/Megascans/Surfaces/Mossy_Ground_xeunbh1/T_MossyGround_xeunbh1_2K_ORDp.uasset",
+				"C:/Users/jzettlem/Documents/GitHub/GAM4492-01-JRJ/GAME/Game/Content/Landscape/Materials/MyLandscape.uasset",
+				"C:/Users/jzettlem/Documents/GitHub/GAM4492-01-JRJ/GAME/Game/Content/Landscape/Materials/M_Landscape_Height.uasset",
 				"C:/Users/jzettlem/Documents/GitHub/GAM4492-01-JRJS/GAME/Game/Content/SimpleMultiplayerLobby/Maps/Map1.umap",
 				"C:/Users/jzettlem/Documents/GitHub/GAM4492-01-JRJS/GAME/Game/Content/SimpleMultiplayerLobby/Maps/Map1_sharedassets/A_LayerInfo.uasset",
 				"C:/Users/jzettlem/Documents/GitHub/GAM4492-01-JRJS/GAME/Game/Content/SimpleMultiplayerLobby/Maps/Map1_sharedassets/AutoMaterial_LayerInfo.uasset",
@@ -26,8 +34,7 @@
 				"C:/Users/jzettlem/Documents/GitHub/GAM4492-01-JRJS/GAME/Game/Content/SimpleMultiplayerLobby/Maps/Map3_sharedassets/B_LayerInfo.uasset",
 				"C:/Users/jzettlem/Documents/GitHub/GAM4492-01-JRJS/GAME/Game/Content/SimpleMultiplayerLobby/Maps/Map3_sharedassets/C_LayerInfo.uasset",
 				"C:/Users/jzettlem/Documents/GitHub/GAM4492-01-JRJS/GAME/Game/Content/SimpleMultiplayerLobby/Maps/Map3_sharedassets/D_LayerInfo.uasset",
-				"C:/Users/jzettlem/Documents/GitHub/GAM4492-01-JRJS/GAME/Game/Content/SimpleMultiplayerLobby/Maps/Map3_sharedassets/E_LayerInfo.uasset",
-				"C:/Users/jzettlem/Documents/GitHub/GAM4492-01-JRJ/GAME/Game/Content/SimpleMultiplayerLobby/Maps/Map1.umap"
+				"C:/Users/jzettlem/Documents/GitHub/GAM4492-01-JRJS/GAME/Game/Content/SimpleMultiplayerLobby/Maps/Map3_sharedassets/E_LayerInfo.uasset"
 			]
 		}
 	]
