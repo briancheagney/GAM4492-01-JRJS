@@ -1301,3 +1301,46 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.29-17.27.38:045][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 255 ms)
 [2024.01.29-17.27.38:046][452]AssetCheck: New page: Asset Save: MainMenu
 [2024.01.29-17.27.38:046][452]LogContentValidation: Display: Validating /Script/Engine.World /Game/SimpleMultiplayerLobby/Maps/MainMenu.MainMenu
+[2024.01.29-17.28.29:653][ 97]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Blender/Assets/LowPolyGamePack/ShipWreckStarter.fbx)
+[2024.01.29-17.28.29:706][ 97]LogFbx: Loading FBX Scene from D:/Blender/Assets/LowPolyGamePack/ShipWreckStarter.fbx
+[2024.01.29-17.28.30:000][ 97]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.29-17.28.31:157][ 97]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.01.29-17.28.31:199][ 97]LogFbx: Display: Triangulating static mesh DestroyedHull
+[2024.01.29-17.28.49:089][ 97]LogStaticMesh: Display: Building static mesh ShipWreckStarter...
+[2024.01.29-17.28.53:029][ 97]LogStaticMesh: Built static mesh [3.94s] /Game/Meshes/ShipWreckStarter.ShipWreckStarter
+[2024.01.29-17.28.54:381][ 97]LogStaticMesh: Warning: ShipWreckStarter has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.01.29-17.28.54:381][ 97]LogStaticMesh: Warning: ShipWreckStarter has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.01.29-17.28.55:765][ 97]FBXImport: Warning: ShipWreckStarter has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.01.29-17.28.55:765][ 97]FBXImport: Warning: ShipWreckStarter has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.01.29-17.29.01:948][691]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.29-17.29.01:951][691]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.29-17.29.02:628][772]LogSlate: Window 'Message Log' being destroyed
+[2024.01.29-17.29.02:631][772]LogSlate: Window 'Message Log' being destroyed
+[2024.01.29-17.29.05:677][123]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/ShipWreckStarter.ShipWreckStarter
+[2024.01.29-17.29.05:718][123]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.29-17.29.05:718][123]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.29-17.29.06:235][123]LogViewport: Scene viewport resized to 1067x1173, mode Windowed.
+[2024.01.29-17.29.11:019][494]LogSlate: Window 'ShipWreckStarter' being destroyed
+[2024.01.29-17.29.11:059][494]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.01.29-17.29.11:059][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.29-17.29.12:738][677]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/ShipWreckStarter.ShipWreckStarter
+[2024.01.29-17.29.12:738][677]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/ShipWreckStarter.ShipWreckStarter
+[2024.01.29-17.29.12:739][677]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/ShipWreckStarter.ShipWreckStarter as actor: StaticMeshActor /Game/SimpleMultiplayerLobby/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_17
+[2024.01.29-17.29.13:834][806]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/ShipWreckStarter.ShipWreckStarter
+[2024.01.29-17.29.13:834][806]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/ShipWreckStarter.ShipWreckStarter
+[2024.01.29-17.29.13:835][806]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/ShipWreckStarter.ShipWreckStarter as actor: StaticMeshActor /Game/SimpleMultiplayerLobby/Maps/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_18
+[2024.01.29-17.30.00:974][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.29-17.30.01:961][167]LogSlate: Window 'Save Content' being destroyed
+[2024.01.29-17.30.01:966][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-17.30.02:011][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.01.29-17.30.02:024][167]LogSavePackage: Moving output files for package: /Game/SimpleMultiplayerLobby/Maps/MainMenu
+[2024.01.29-17.30.02:025][167]LogSavePackage: Moving '../../../../../../Users/Jace/Documents/GitHub/GAM4492-01-JRJ/GAME/Game/Saved/MainMenu507236D549EC785612D3EC9236B8B277.tmp' to '../../../../../../Users/Jace/Documents/GitHub/GAM4492-01-JRJ/GAME/Game/Content/SimpleMultiplayerLobby/Maps/MainMenu.umap'
+[2024.01.29-17.30.02:030][167]LogFileHelpers: All files are already saved.
+[2024.01.29-17.30.02:030][167]LogFileHelpers: Saving map 'MainMenu' took 0.043
+[2024.01.29-17.30.02:038][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/ShipWreckStarter" FILE="../../../../../../Users/Jace/Documents/GitHub/GAM4492-01-JRJ/GAME/Game/Content/Meshes/ShipWreckStarter.uasset" SILENT=true
+[2024.01.29-17.30.02:267][167]LogSavePackage: Moving output files for package: /Game/Meshes/ShipWreckStarter
+[2024.01.29-17.30.02:267][167]LogSavePackage: Moving '../../../../../../Users/Jace/Documents/GitHub/GAM4492-01-JRJ/GAME/Game/Saved/ShipWreckStarter8F9CE4724F11F2FE59CF5CB5F22F3C76.tmp' to '../../../../../../Users/Jace/Documents/GitHub/GAM4492-01-JRJ/GAME/Game/Content/Meshes/ShipWreckStarter.uasset'
+[2024.01.29-17.30.02:272][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 305 ms (total: 561 ms)
+[2024.01.29-17.30.02:274][167]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.29-17.30.02:274][167]LogContentValidation: Display: Validating /Script/Engine.World /Game/SimpleMultiplayerLobby/Maps/MainMenu.MainMenu
+[2024.01.29-17.30.02:274][167]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/ShipWreckStarter.ShipWreckStarter
