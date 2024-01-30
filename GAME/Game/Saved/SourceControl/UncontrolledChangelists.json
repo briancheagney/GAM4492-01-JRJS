@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jtensley/Documents/GitHub/GAM4492-01-JRJS/GAME/Game/Content/SimpleMultiplayerLobby/Maps/MainMenu.umap",
+				"C:/Users/jtensley/Documents/GitHub/GAM4492-01-JRJS/GAME/Game/Content/Meshes/CellTowerInterior.uasset",
+				"C:/Users/jtensley/Documents/GitHub/GAM4492-01-JRJS/GAME/Game/Content/Meshes/LPHouseMid_Door_001.uasset",
+				"C:/Users/jtensley/Documents/GitHub/GAM4492-01-JRJS/GAME/Game/Content/Meshes/LPHouseMid_House.uasset",
+				"C:/Users/jtensley/Documents/GitHub/GAM4492-01-JRJS/GAME/Game/Content/SimpleMultiplayerLobby/Maps/Map2.umap",
+				"C:/Users/jtensley/Documents/GitHub/GAM4492-01-JRJS/GAME/Game/Content/Meshes/LPTreeLargeDead2.uasset",
 				"C:/Users/Jace/Documents/GitHub/GAM4492-01-JRJ/GAME/Game/Content/SimpleMultiplayerLobby/Maps/MainMenu.umap",
 				"C:/Users/Jace/Documents/GitHub/GAM4492-01-JRJ/GAME/Game/Content/SimpleMultiplayerLobby/Maps/MainMenu_BuiltData.uasset",
 				"C:/Users/Jace/Documents/GitHub/GAM4492-01-JRJ/GAME/Game/Content/Meshes/LPLargeHouse.uasset",
