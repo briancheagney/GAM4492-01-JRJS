@@ -2217,3 +2217,6 @@ Make sure 'BP_BlueCharacter' has been compiled for  Showinventory
 [2024.02.05-21.09.59:359][390]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
 [2024.02.05-21.09.59:359][390]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
 [2024.02.05-21.09.59:359][390]LogModuleManager: Shutting down and abandoning module LiveCoding (252)
+[2024.02.05-22.07.09:485][390]LogDerivedDataCache: C:/Users/Sgamble/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.078 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3515 files in 4984 folders with total size 192 MiB.
+[2024.02.05-23.07.09:481][390]LogDerivedDataCache: C:/Users/Sgamble/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.072 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3557 files in 5027 folders with total size 192 MiB.
+[2024.02.06-00.07.09:487][390]LogDerivedDataCache: C:/Users/Sgamble/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.079 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3557 files in 5027 folders with total size 192 MiB.
