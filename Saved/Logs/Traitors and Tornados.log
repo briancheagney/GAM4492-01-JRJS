@@ -1580,3 +1580,4 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.02.13-19.09.17:173][605]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
 [2024.02.13-19.09.17:173][605]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
 [2024.02.13-19.09.17:173][605]LogModuleManager: Shutting down and abandoning module LiveCoding (252)
+[2024.02.13-20.07.05:422][605]LogDerivedDataCache: C:/Users/Sgamble/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.099 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7253 files in 9279 folders with total size 342 MiB.
